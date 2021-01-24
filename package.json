@@ -1,0 +1,17 @@
+{
+  "name": "pascal-voc-to-custom-vision-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dawid Lubera, Magdalena Kuna",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cognitiveservices-customvision-training": "^5.2.0",
+    "@azure/ms-rest-js": "^2.1.0",
+    "util": "^0.12.3",
+    "xml2js": "^0.4.23"
+  }
+}

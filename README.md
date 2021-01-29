@@ -4,7 +4,7 @@ A simple script that converts XML files with Pascal VOC Annotations and uploads 
 
 #### Setup
 
-Change `trainingKey`, `endPoint` and `filesPath` (relative or not relative) in the script to your own and run `npm start`.
+Change `trainingKey`, `endPoint` and `filesPath` (relative or not relative) and `newProjectName` in the script to your own and fill `ownTags` array with your custom tags and run `npm i; npm start`.
 
 #### Informations
 
